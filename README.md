@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/vintage_microphone_robot.jpg"
+    src="./assets/vintage microphone robot.jpg"
     width="300"
 />
 </p>
