@@ -1,9 +1,4 @@
-<p align="center">
-<img 
-    src="./assets/vintage microphone robot.jpg"
-    width="300"
-/>
-</p>
+
 
 
 # Projeto Podcast Gerado por I.A.s
